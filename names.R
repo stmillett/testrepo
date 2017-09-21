@@ -10,7 +10,7 @@ print("Hello, my name is [name here]")
 # Don't do this *for* other people.  Just let them pull the repo, add a line for their own name, commit, and push it!
 # Remember not to do this all at once.  Have one group member do it at a time to prevent conflicts.
 
-print("")
+print("Meenu")
 
 print("")
 
